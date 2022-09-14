@@ -1,4 +1,4 @@
-### Hi word 👋
+### Hi world 👋
 
 I'm Eru, from Buenos Aires.
 
