@@ -1,5 +1,21 @@
 ### Hi word 👋
 
+I'm Eru, from Buenos Aires.
+
+<a href="https://www.linkedin.com/in/marqueze/" rel="marqueze">![Foo](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+
+Economist at University of General Sarmiento and Data analyst at Ministry of Productive Development of the Nation
+
+### #LearnedSkills
+
+  * Languages: ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+
+  * Databases: ![MongoDB]( https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+  * DataViz: ![PowerBi](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
+
+  * Version Control: ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
 <!--
 **erumarquez/erumarquez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
