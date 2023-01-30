@@ -4,7 +4,7 @@ I'm Eru, from Buenos Aires.
 
 <a href="https://www.linkedin.com/in/marqueze/" rel="marqueze">![Foo](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
-Economist at National University of General Sarmiento and Data analyst at Ministry of Productive Development of the Nation
+Economist | Data Science | Doctoral Research
 
 ### #LearnedSkills
 
